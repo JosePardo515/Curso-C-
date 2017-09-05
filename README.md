@@ -1,1 +1,1 @@
-# Curso-C- I'm learning c++ and use Gif. I use this repositoy for testing propuse
+# Curso-C- I'm learning c++ using Git. I'll use this repositoy for testing propuse
